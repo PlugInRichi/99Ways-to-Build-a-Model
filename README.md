@@ -8,9 +8,17 @@ I hope this repository can help you to stimulate your creativity and inspire you
 
 # Index :books:
 
-#### Data Science 
+#### Data Prepossessing
 
    [Exploratory Data Analysis](ExploratoryDataAnalysis)
+
+#### Computer Vision
+   [Digital image processing]()
+   
+   - [Transformations]() :construction:
+   - [Filters]() :construction:
+   - [Segmentation]() :construction:
+   
 
 #### Digital Signal Processing
 
