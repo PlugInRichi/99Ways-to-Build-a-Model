@@ -13,11 +13,7 @@ I hope this repository can help you to stimulate your creativity and inspire you
    [Exploratory Data Analysis](ExploratoryDataAnalysis)
 
 #### Computer Vision
-   [Digital image processing]()
-   
-   - [Transformations]() :construction:
-   - [Filters]() :construction:
-   - [Segmentation]() :construction:
+   [Digital image processing](DigitalImageProcessing)
    
 
 #### Digital Signal Processing
